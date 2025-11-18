@@ -49,7 +49,7 @@
 
     "DEFAULT_SESSION": {
       "description": "Enter session string if you want YOUR USERS not to be forced login and can do things via invite_link",
-      "value": "BQGLEW8AQjGkL09qxBbcb4JWGkRsZ-pRLbBJCXmjtQZLQZ4-90WG2zjZ40rso8SiwDHwL6W5md6QkBC-XGxmjr5scL3qZOpAsyQlmbbe6d0n8w5U0FvJ_SQXbR8AhCPqQG84ipG_qXSF32s5g69mjR0ZlKIfS9RbOHUmOdujVUqr76N9DJOfb57mLGvTXa9pGj0HGsmSMoWGPRWh26GMzkkt3MP2-RgA1ZrxZvBth0XEX0XVX_gjBDCbdg5gy7JF_Ll3ZXs0CCb9_6Gg_Oy_wJBtbmM4h_66XOVcaEjxvlGKlA_TnCWHPEjyCW2kGhFWBJc0Yi7b6gQKr-es3MaRyNt1bIgWkwAAAAH1jf68AA",
+      "value": "BQGLEW8AEPjGirfr9RG-APIgPbPffmViPGXcaBxwE5nU-2BDx7q7aikTF9XViwmfFy70mX33Ddp96E5QwqofIsdC_neHZn2z9ZBZYkxdrh9NX9Vq4YH3HwE7iBoi0oJVrPovtpyznW1aDTW-RcTGnaDZ_McaI4kXiLQhQo0wPMxmfzs3ocHmw06VbKxmjeXLxCcDYZOOs1DKaIIWGd6RSEMH760kkN7wvDT4bTyiv164vhqQjAisEnRA0NE2JZIFC_WfIBo6FLN77pNyCrDHHi8_nQZ0nI-be4ymDZvehI0Bt1ZN0yFkD3eYSdnVcQ3Xbf-ql2viFvk1q55Bwh74iJbWWNhSpAAAAAH1jf68AA",
       "required": true
     },
     
